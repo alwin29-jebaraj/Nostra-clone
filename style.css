@@ -270,4 +270,6 @@ body{
     height: 40%;
     width: 40%;
     border-radius: 10px;
+    display: none;
+    
 }
